@@ -1,0 +1,32 @@
+
+
+->démarrer la machine en local : $ bundle exec jekyll serve
+
+⚠️ démarrer en local dans docx
+➡️regarder sur "localhost:4000/" dans un navigateur
+
+✨Lien de mon site-web : https://jolanbrizard.github.io
+
+
+🌐DOCUMENTATION🌐
+
+Jekyll
+ -> https://jekyllrb.com
+
+Bundler
+ -> bundler.io
+
+Set une page avec Jekyll 
+-> https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll
+
+⚠️Pour ce qui est de commencer avec Github Pages, le reste de la documentation se trouve dans les onglets sur la gauche !
+
+❔Github Pages avec Jekyll ❔
+
+Github Pages est un moyen "d'héberger" (grossièrement) un site avec un repository GitHub, le HTML/CSS/SCSS sont gérés.
+Jekyll permet a des fichiers MARKDOWN former un site_web avec des codes HTML qui lui coresspondent ainsi que des thèmes comme "minima" celui installé de base.
+
+S'il y'a quelconques question, toutes les indications peuvent être retrouvé via le lien donné sur "comment set une page avec Jekyll"  
+
+
+
