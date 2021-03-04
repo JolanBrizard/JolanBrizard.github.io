@@ -15,6 +15,8 @@ author: Jolan Brizard
 #### **Afin de me contacter** 
 1. Cliquez sur les liens en bas de page.
 2. Appelez le 07 83 52 51 26.
+3. Par voie postale :
+> 185 Avenue Sainte-Marguerite, 06200 Nice.
 
 L'Entièreté du code de la page est disponible sur GitHub
 
