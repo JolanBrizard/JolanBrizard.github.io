@@ -103,7 +103,7 @@ author: Jolan Brizard
 
 
 <h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
-    < logiciels utilisés; langages
+    < logiciels utilisés; langages; langues
 </p></h2>
 
 
@@ -112,8 +112,19 @@ author: Jolan Brizard
 >> [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)/[CSS](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade) | [C](https://fr.wikipedia.org/wiki/C_(langage)) | [Python](https://fr.wikipedia.org/wiki/Python_(langage))
 >
 * > **Logiciels**
->> ![toolbox](assets/toolbox.png) | ![VS](assets/vscode_icon.png) | ![Office](assets/suite_office_icon.png)
->> [toolbox](https://www.jetbrains.com/fr-fr/toolbox-app/) *(ainsi que les logiciels de la suite JetBrains)* | [VSCode](https://code.visualstudio.com/) | [Office](https://www.office.com/) 
+>> ![Toolbox](assets/toolbox.png) | ![VS](assets/vscode_icon.png) | ![Office](assets/suite_office_icon.png)
+>> [Toolbox](https://www.jetbrains.com/fr-fr/toolbox-app/) *(ainsi que les logiciels de la suite JetBrains)* | [VSCode](https://code.visualstudio.com/) | [Office](https://www.office.com/)
+>
+* > **Langues**
+>> Français et Langue des Signes Française *(LSF)*
+>>- Langues maternelles
+>
+>> Anglais
+>>- TEpitech : 750
+>>- Niveau Univeristaire :  B2.2
+>
+>> Allemand
+>>- Niveau Lycée : A2
 
 <h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
     />
