@@ -20,12 +20,12 @@ author: Jolan Brizard
     <br>
     Je suis actuellement à la recherche d'un stage de deuxième année dans le milieu du developpement Web / Application
     DevOps. Je suis tout à fait flexible quant au langage de programmation ou informatique à maitriser pour ce stage, 
-    mais je recherche aussi dans les mesures du possibles des stages orientés en C++/JavaScript/Swift car ce sont tous
+    mais je recherche aussi dans la mesure du possible des stages orientés en C++/JavaScript/Swift car ce sont tous
     les trois des langages que je souhaite maitriser.
     <br>
     <br>
-    Si vous êtes recruteurs et que vous êtes intéressé par mon profil je vous invite à cliquer <a class="page-link" href="/about/">ici</a>
-    ou de cliquer sur 'About Me'.
+    Si vous êtes recruteur et que vous êtes intéressé par mon profil je vous invite à cliquer <a class="page-link" href="/about/">ici</a>
+    ou cliquer sur 'About Me'.
 </p></div></h2>
 
 
