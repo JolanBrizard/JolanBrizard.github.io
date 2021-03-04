@@ -16,9 +16,9 @@ author: Jolan Brizard
 1. Cliquez sur les liens en bas de page.
 2. Appelez le 07 83 52 51 26.
 
-L'Entièreté du code de la page est disponible sur le GitHub
+L'Entièreté du code de la page est disponible sur GitHub
 
-*Ce site à été entièrement fait par Jolan Brizard*
+*Ce site a été entièrement fait par Jolan Brizard*
 
 <h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
      />
