@@ -29,7 +29,7 @@ twitter_username: Abriscout
 github_username:  JolanBrizard
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
