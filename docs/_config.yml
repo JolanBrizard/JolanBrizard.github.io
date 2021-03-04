@@ -21,17 +21,29 @@
 title: Jolan Brizard
 email: jolan.brizard@epitech.eu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the website I made to digitalize my curriculum vitae
-  and more !
+  Made with Jekyll, this web-page is made in order to
+  make my curriculum vitae more pleasant to watch
+  and for you to know more about me !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Abriscout
 github_username:  JolanBrizard
 
 # Build settings
-theme: jekyll-theme-clean-blog
+theme: minima
 plugins:
   - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: Abriscout
+      permalink: /posts/:title/
+
+markdown: kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
