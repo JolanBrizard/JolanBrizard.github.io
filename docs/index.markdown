@@ -1,7 +1,10 @@
 ---
-layout: page
-fontsize: 50pt
+layout: home
+author: Jolan Brizard
 ---
+
+
+![land](assets/lands.jpeg)
 
 
 <h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
@@ -9,8 +12,8 @@ fontsize: 50pt
 </p></h2>
 
 
-* > **Juin 2019** - Baccalauréat Scientifique option Sciences et Vie de la Terre.
->>mention: assez bien.
+* > **Juin 2019** - Baccalauréat Scientifique, option Sciences et Vie de la Terre.
+>> mention: assez bien.
 * > **Juillet 2020** - 1ère année de [LLCER](https://fr.wikipedia.org/wiki/Licence_de_langues,_litt%C3%A9ratures_et_civilisations_%C3%A9trang%C3%A8res_et_r%C3%A9gionales)-Anglais obtenue.
 
 
@@ -39,20 +42,30 @@ fontsize: 50pt
 
 
 <h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
-    < projets réalisés
+    < principaux projets réalisés
 </p></h2>
 
 
 * > **Personnels**
->>  **Bot Discord** : Création d'un bot discord avec discord.py *(en cours)*
+>>  **Bot Discord** : Création d'un bot [discord](https://fr.wikipedia.org/wiki/Discord_(logiciel)) avec [discord.py](https://discordpy.readthedocs.io/en/latest/index.html) *(en cours)*
 >>- Prise de commandes classiques
 >>- Recherche de flux de média via Twitter, ainsi que de sortie de série télévisée *(en cours)*
 >
->> **Rush** : création d'un site en moins de 24H avec GitHub Pages à l'aide de Jekyll
->>- Approfondissement des connaissances web/HTML/CSS et découverte des .md
->>- Découverte de GitHub Pages
+>> **Rush** : Création d'un site en moins de 24H avec [GitHub Pages](https://pages.github.com/) à l'aide de [Jekyll](https://jekyllrb.com/)
+>>- Approfondissement des connaissances web [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)/[CSS](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade) et découverte des .md
+>>- Découverte de [GitHub Pages](https://pages.github.com/)
 * > **Scolaires**
->> **my_runner** : création d'un jeu type *runner* en langage [C](https://fr.wikipedia.org/wiki/C_(langage)) avec la librairie [CSFML](https://www.sfml-dev.org/download/csfml/index-fr.php) ![](assets/runner.png)
+>> **my_runner** : Création d'un jeu type *runner* en langage [C](https://fr.wikipedia.org/wiki/C_(langage)) avec la librairie [CSFML](https://www.sfml-dev.org/download/csfml/index-fr.php) ![](assets/runner.png)
+>
+>> **antman** : Algorithme qui vise à compresser les fichiers en compression dite *LOSSLESS*
+>>- Algorithme [LZ77](https://en.wikipedia.org/wiki/LZ77_and_LZ78) appliqué en [C](https://fr.wikipedia.org/wiki/C_(langage))
+>>- Décompréssion réalisée avec la même méthode
+>>- Meilleur pourcentage aux tests automatisés
+>
+>> **Mathématiques** : En langage [Python](https://fr.wikipedia.org/wiki/Python_(langage))
+>>- Calculs de matrices pour divers sujets
+>>- Ray Tracing
+>>- Encryptage de messages à l'aide d'une matrice clé
 
 
 <h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
@@ -63,11 +76,14 @@ fontsize: 50pt
 
 
 <h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
-    < experiences professionnelles
+    < mes experiences professionnelles
 </p></h2>
 
 
-exp
+* > **Picard - Surgelés**
+>- Vendeur Assistant - plusieurs renforts et remplacements sur Nice
+* > **Association - Signes**
+>- Bénévolat lors de festivals
 
 
 <h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
