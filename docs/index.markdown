@@ -6,6 +6,11 @@ author: Jolan Brizard
 
 ![land](assets/lands.jpeg)
 
+
+***
+
+
+
 <h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
     < présentation
 </p></h2>
