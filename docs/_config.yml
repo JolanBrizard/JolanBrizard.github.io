@@ -33,15 +33,8 @@ github_username:  JolanBrizard
 theme: minima
 plugins:
   - jekyll-feed
+  
 
-defaults:
-  -
-    scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: Abriscout
-      permalink: /posts/:title/
 
 markdown: kramdown
 

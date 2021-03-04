@@ -24,7 +24,7 @@ author: Jolan Brizard
     les trois des langages que je souhaite maitriser.
     <br>
     <br>
-    Si vous êtes recruteur et que vous êtes intéressé par mon profil je vous invite à cliquer <a class="page-link" href="/about/">ici</a>
+    Si vous êtes recruteur et que vous êtes intéressé par mon profil, je vous invite à cliquer <a class="page-link" href="/about/">ici</a>
     ou cliquer sur 'About Me'.
 </p></div></h2>
 
