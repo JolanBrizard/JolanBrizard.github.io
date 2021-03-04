@@ -84,7 +84,7 @@ author: Jolan Brizard
 >>- Prise de commandes classiques
 >>- Recherche de flux de média via Twitter, ainsi que de sortie de série télévisée *(en cours)*
 >
->> **Rush** : Création d'un site en moins de 24H avec [GitHub Pages](https://pages.github.com/) à l'aide de [Jekyll](https://jekyllrb.com/)
+>> **Rush** : Création d'un site en moins de 12H avec [GitHub Pages](https://pages.github.com/) à l'aide de [Jekyll](https://jekyllrb.com/)
 >>- Approfondissement des connaissances web [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)/[CSS](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade) et découverte des .md
 >>- Découverte de [GitHub Pages](https://pages.github.com/)
 * > **Scolaires**
