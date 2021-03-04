@@ -12,7 +12,7 @@ author: Jolan Brizard
 
 
 <h2><div class="trigger"><p style="font-family: gill sans; font-size:16pt; font-weight: 400">
-    Bonjour, je m'appelle Jolan, j'ai 19 ans et je suis étudiant en développement informatique à <a class="page-link" href="https://www.epitech.eu/fr/ecole-informatique-nice/">{EPITECH.}</a> - Nice.
+    Bonjour, je m'appelle Jolan, j'ai 19 ans et je suis étudiant en développement informatique à <a class="page-link" href="https://www.epitech.eu/fr/">{EPITECH.}</a> - Nice.
     <br>
     <br>
     À travers cette page je vous présente mon Curriculum Vitae sous forme de web !
