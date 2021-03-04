@@ -87,7 +87,7 @@ author: Jolan Brizard
 >
 >> **antman** : Algorithme qui vise à compresser les fichiers en compression dite *LOSSLESS*
 >>- Algorithme [LZ77](https://en.wikipedia.org/wiki/LZ77_and_LZ78) appliqué en [C](https://fr.wikipedia.org/wiki/C_(langage))
->>- Décompréssion réalisée avec la même méthode
+>>- Décompression réalisée avec la même méthode
 >>- Meilleur pourcentage aux tests automatisés
 >
 >> **Mathématiques** : En langage [Python](https://fr.wikipedia.org/wiki/Python_(langage))
