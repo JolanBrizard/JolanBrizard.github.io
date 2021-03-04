@@ -6,6 +6,34 @@ author: Jolan Brizard
 
 ![land](assets/lands.jpeg)
 
+<h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
+    < présentation
+</p></h2>
+
+
+<h2><div class="trigger"><p style="font-family: gill sans; font-size:16pt; font-weight: 400">
+    Bonjour, je m'appelle Jolan, j'ai 19 ans et je suis étudiant en développement informatique à {EPITECH.} - Nice.
+    <br>
+    <br>
+    À travers cette page je vous présente mon Curriculum Vitae sous forme de web !
+    <br>
+    <br>
+    Je suis actuellement à la recherche d'un stage de deuxième année dans le milieu du developpement Web / Application
+    DevOps. Je suis tout à fait flexible quand au langage de programmation ou informatique à maitriser pour ce stage, 
+    mais je recherche aussi dans les mesures du possibles des stages orientés en C++/JavaScript/Swift car ce sont tout
+    les trois des langages que je souhaite maitriser.
+    <br>
+    <br>
+    Si vous êtes recruteurs et que vous êtes intéressé par mon profil je vous invite à cliquer <a class="page-link" href="/about/">ici</a>
+    ou de cliquer sur 'About Me'.
+</p></div></h2>
+
+
+
+<h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
+    />
+</p></h2>
+
 
 <h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
     < mes diplômes
@@ -72,6 +100,24 @@ author: Jolan Brizard
     />
 </p></h2>
 
+
+
+<h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
+    < logiciels utilisés; langages
+</p></h2>
+
+
+* > **Langages**
+>> ![html css](assets/htmlcss.png) | ![C](assets/c.png) | ![Python](assets/python.png)
+>> [HTML](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)/[CSS](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade) | [C](https://fr.wikipedia.org/wiki/C_(langage)) | [Python](https://fr.wikipedia.org/wiki/Python_(langage))
+>
+* > **Logiciels**
+>> ![toolbox](assets/toolbox.png) | ![VS](assets/vscode_icon.png) | ![office](assets/suite_office_icon.png)
+>> [toolbox](https://www.jetbrains.com/fr-fr/toolbox-app/) *(ainsi que les logiciels de la suite Jetbrains)* | [VSCode](https://code.visualstudio.com/) | [office](https://www.office.com/) 
+
+<h2><p style="font-family: american typewriter; font-size:25pt; font-weight: 600">
+    />
+</p></h2>
 
 
 
