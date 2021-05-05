@@ -17,20 +17,14 @@ author: Jolan Brizard
 
 
 <h2><div class="trigger"><p style="font-family: gill sans; font-size:16pt; font-weight: 400">
-    Bonjour, je m'appelle Jolan, j'ai 19 ans et je suis étudiant en développement informatique à <a class="page-link" href="https://www.epitech.eu/fr/">{EPITECH.}</a> - Nice.
+    Bonjour, je m'appelle Jolan, j'ai 20 ans et je suis étudiant en développement informatique à <a class="page-link" href="https://www.epitech.eu/fr/">{EPITECH.}</a> - Nice.
     <br>
     <br>
     À travers cette page je vous présente mon Curriculum Vitae sous forme de web !
     <br>
     <br>
-    Je suis actuellement à la recherche d'un stage de deuxième année dans le milieu du developpement Web / Application
-    DevOps. Je suis tout à fait flexible quant au langage de programmation ou informatique à maitriser pour ce stage, 
-    mais je recherche aussi dans la mesure du possible des stages orientés en C++/JavaScript/Swift car ce sont tous
-    les trois des langages que je souhaite maitriser.
-    <br>
-    <br>
-    Si vous êtes recruteur et que vous êtes intéressé par mon profil, je vous invite à cliquer <a class="page-link" href="/about/">ici</a>
-    ou cliquer sur 'About Me'.
+    Si vous êtes intéressé par mon profil,<a class="page-link" href="/about/"> Contactez moi !</a>
+    ou cliquez sur 'About Me'.
 </p></div></h2>
 
 
